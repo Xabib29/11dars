@@ -1,0 +1,182 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head-left button  {
+    width: 243px;
+    height: 50px;
+    background: #009FF5B5;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 4px 4px 0px #DAD3FF;
+}
+.container{
+    width: 1540px;
+    margin: 0 auto ;
+}
+.head-parent{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    align-items: center;
+    padding-top: 30px;
+}
+select{
+    width: 200px;
+    height: 24px;
+    font-family: Roboto;
+    font-size: 20px;
+    border: none;
+    background-color: transparent;
+    color: aliceblue;
+}
+.head-left{
+    display: flex;
+    gap: 68px;
+    align-items: center;
+    height: 60px;
+}
+.img{
+    background: url(img/image\ 1\ \(5\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.head-left button img{
+    padding-right: 40px;
+}
+.head-left p{
+color: aliceblue;
+font-family: Roboto;
+}
+#bir .h2{
+    width: 604px;
+height: 103px;
+top: 243px;
+left: 443px;
+gap: 0px;
+border-radius: 50px ;
+border: 11px 0px 0px 0px;
+background: #FFC611;
+border: 11px solid #5A5555;
+justify-content: center;
+align-items: center;
+display: flex;
+margin: 0 auto;
+margin-top: 244px;
+}
+.h2 h2{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42.19px;
+text-shadow: 0px 4px 4px  #0047FF;
+}
+#bir .simple, .zywo,.niko{
+    width: 361px;
+height: 420px;
+background: #1F1F1F;
+box-shadow: 8px 7px 20px 0px #FFFFFF;
+}
+.parent-bir h2{
+    font-family: Roboto;
+font-size: 36px;
+font-weight: 600;
+text-align: center;
+padding-top: 10px;
+text-shadow: 0px 4px 4px #FFC200;
+color: black;
+}
+.parent-bir{
+    display: flex;
+    justify-content: space-between  ;
+    margin-top: 150px;
+
+}
+.out{
+    width: 200px;
+    height: 170px;
+}
+#ikki h1{
+    font-family: Roboto;
+font-size: 64px;
+font-weight: 600;
+line-height: 75px;
+color: #5A5555;
+text-shadow: 0px 4px 4px  #FFFFFF;
+text-align: center;
+padding-top: 60px;
+}
+#ikki{
+background-color: black;
+}
+.box-right p{
+    font-family: Roboto;
+    font-size: 27px;
+    font-weight: 600px;
+    line-height: 31.64px;
+    color: #FFFFFF;
+    width: 663px;
+height: 140px;
+top: 1204px;
+
+}
+.box-right button{
+    width: 278px;
+height: 61px;
+background: #FFC200;
+box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+color: black;
+border: none ;
+margin-top: 100PX;
+font-family: Roboto;
+font-size: 27px;
+font-weight: 700;
+line-height: 31.64px;
+
+
+}
+.box-parent {
+display: flex;
+justify-content: space-between;
+padding-top: 58px;
+}
+.box-parent2 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 168px;
+    }
+#ikki button:hover{
+    background: #535353;
+    box-shadow: 0px 7px 12.8px 0px #FFFFFF;
+color: #FFFFFF;
+}
+footer{
+    background: #FFC611;
+
+height: 158px;
+margin: 0 auto;
+}
+.parent-3{
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+padding-top: 60px;
+
+}
+.parent-s{
+    display:flex;
+    gap: 20px;
+}
+#ikki{
+    padding-bottom: 80px;
+}
